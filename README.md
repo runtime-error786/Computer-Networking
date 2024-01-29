@@ -1,6 +1,9 @@
 Description:
 in that project main agenda from one router to other area to other area message pass through NAT ,using RIP,Eigrp,OSPF area 1,Redistribute OSPF and EIGRP
 
+Setup:
+install CIsco packet tracer and drag that pkt file in it then run it
+
 Computer Networks
 Final Project
 ![image](https://github.com/runtime-error786/Computer-Networking-project/assets/123109871/a7e96420-dad0-47ba-a1b7-7fb362787c55)
